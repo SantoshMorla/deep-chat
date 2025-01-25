@@ -40,7 +40,7 @@ Deep Chat version `2.1.1` brings a ton of new features into the Deep Chat ecosys
 
 https://github.com/user-attachments/assets/7ba01414-ca4d-4e17-b31b-403782d9d950
 
-### :computer: Getting started
+### :computer: Getting started...
 
 ```
 npm install deep-chat
